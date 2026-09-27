@@ -1,0 +1,22 @@
+## Visual Studio Build Outputs
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Cache and Settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Resharper or other Tools (If used)
+_ReSharper*/
+*.dtb
+*.dtb.cache
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.nuget/*
+**/packages/
